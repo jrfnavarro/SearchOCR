@@ -22,7 +22,6 @@
 
 - Gained experience in developing a complete app from ideation to launch.
 - Learned to use various technologies and frameworks such as Swift, Vision framework, and multithreading to create a robust and scalable app.
-- Developed skills in project management and agile methodologies to effectively manage the development process and meet deadlines.
 - Gained an understanding of the importance of user experience and design in creating an intuitive and engaging app.
 - Learned about the process of publishing an app on the App Store and the importance of marketing and outreach in promoting the app to potential users.
 
