@@ -18,7 +18,7 @@
 - CoreGraphics
 - StoreKit
 
-# What I learned
+## What I learned
 
 - Gained experience in developing a complete app from ideation to launch.
 - Learned to use various technologies and frameworks such as Swift, Vision framework, and multithreading to create a robust and scalable app.
