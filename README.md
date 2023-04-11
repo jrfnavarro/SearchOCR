@@ -2,15 +2,6 @@
 
 ![Your paragraph text](https://user-images.githubusercontent.com/124773300/231116073-749d2358-5996-4305-a4b8-60b29705df0f.png)
 
-
-![SS1 (Final)](https://user-images.githubusercontent.com/124773300/231150864-b9d6f2da-ffde-4c6d-a373-52fdde09aa53.JPG)
-![SS2 (Final)](https://user-images.githubusercontent.com/124773300/231150893-57cf5b97-cb5b-4e44-84a8-5c645a26ef31.JPG)
-![SS3 (Final)](https://user-images.githubusercontent.com/124773300/231150907-eae4cfde-766d-47a4-9b25-35addf23b4c5.JPG)
-![SS4 (Final)](https://user-images.githubusercontent.com/124773300/231150914-a63e124b-fbd1-4ed3-bff1-29eecc719c73.JPG)
-![SS5 (Final)](https://user-images.githubusercontent.com/124773300/231150921-7d329559-f777-467a-90d9-83404682bfa8.JPG)
-
-
-
 ## Description
 - SearchOCR is an app that simplifies the process of searching for specific text within images and PDFs and combines OCR technology with file management tools.
 
