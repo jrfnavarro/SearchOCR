@@ -1,4 +1,4 @@
-# SearchOCR Ctrl + F for text inside images and PDFs
+# **SearchOCR** - Ctrl + F for text inside images and PDFs
 
 ![Your paragraph text](https://user-images.githubusercontent.com/124773300/231163211-902785d5-2428-4a0f-9214-2aa8263f32f2.png)
 
